@@ -24,3 +24,11 @@ Their paper includes a long list of known and also potential threats to 5G. Expe
 
 # Conclusion
 Since the release of this paper there have been no credible updates to how this process of vulnerability assessment for 5G is going, but one thing for sure: if 5G is ever going to be a viable option for a multitude of platforms longterm it must resolve these blaring security issues. 
+
+# Sources
+https://www.youtube.com/watch?v=53FfqzNzIis
+https://www.youtube.com/watch?v=SRozyelbpBw
+https://www.dni.gov/files/NCSC/documents/supplychain/Potential_Threat_Vectors_to_5G_Infrastructure_.pdf
+https://www.hstoday.us/subject-matter-areas/infrastructure-security/nsa-odni-and-cisa-release-5g-analysis-paper/
+https://thehackernews.com/2021/05/us-intelligence-agencies-warn-about-5g.html?m=1
+https://cyberdefensereview.army.mil/Portals/6/CDR%20V5N1%20-%2008_%20Fonyi_WEB.pdf
