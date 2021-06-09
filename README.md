@@ -1,5 +1,6 @@
 # 5G-security-issues
 When it comes to internet security things can get very complicated very quickly. The security measures currently in place from many popular internet providers and other sources spent years testing and changing security systems to make sure that there were as few weaknesses as possible. With that being said not all internet is the same, and 5G is still quite new and therefore quite untested. 5G is far more complex than its predecessors meaning that many more potential vulnerabilities to be found and exploited. 
+
 ![Screenshot (82)](https://user-images.githubusercontent.com/64501695/121282096-fbd37e00-c8a6-11eb-80f9-0284fe8ca605.png)
 
 # Seytonic
