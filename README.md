@@ -7,7 +7,7 @@ When it comes to internet security things can get very complicated very quickly.
 ![Screenshot (83)](https://user-images.githubusercontent.com/64501695/121282180-0f7ee480-c8a7-11eb-8714-f01c89a25f6c.png)
 
 
-Back on April 3rd 2021 a youtuber that goes by the name Seytonic made a video on this very topic. I highly recommend you watch his video, but for a brief summary he stated that due to 5G’s complexity there were 3 major vulnerabilities. 
+Back on April 3rd 2021 a youtuber that goes by the name [Seytonic] https://www.youtube.com/c/Seytonic/featured made a video on this very topic. I highly recommend you watch his video, but for a brief summary he stated that due to 5G’s complexity there were 3 major vulnerabilities. 
 
 #1: Unauthorised Access                                                                     
 #2: DoSing 5G                                                                                 
