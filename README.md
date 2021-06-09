@@ -4,10 +4,12 @@ When it comes to internet security things can get very complicated very quickly.
 
 #Seytonic
 ![Screenshot (83)](https://user-images.githubusercontent.com/64501695/121282180-0f7ee480-c8a7-11eb-8714-f01c89a25f6c.png)
+
+
 Back on April 3rd 2021 a youtuber that goes by the name Seytonic made a video on this very topic. I highly recommend you watch his video, but for a brief summary he stated that due to 5G’s complexity there were 3 major vulnerabilities. 
 
-#1: Unauthorised Access /n                                                                     
-#2: DoSing 5G /n
-#3: Legacy Technology /n
+#1: Unauthorised Access                                                                     
+#2: DoSing 5G
+#3: Legacy Technology 
 
 All of these vulnerabilities are present primarily due to 5G’s complexity and our general lack of tested security features in place for it. In time these vulnerabilities are likely to be better secured but that is not where we currently are. Seytonic concludes his video by stating that he does not mean that we should try and put an end to 5G as a whole. His goal was just to make people unaware that 5G is still an unrest technology and there are many flaws that we are going to have to work out before it can truly replace 4G. 
